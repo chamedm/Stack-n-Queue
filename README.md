@@ -14,10 +14,16 @@ En ese caso deberá terminar la ejecución, destruyendo primero la pila y la col
 Dependiendo del valor de o el programa hará algo distinto:
 
   •Si o==1, insertará ien la pila.
+  
   •Si o==2, mostrará el último valor insertado en la pila sin sacarlo de ella.
+  
   •Si o==3, mostrará el último valor insertado en la pila sacándolo de ella.
+  
   •Si o==4, insertará ien la cola.
+  
   •Si o==5, mostrará el valor en la cabeza de la cola sin sacarlo de ella.
+  
   •Si o==6, mostrará el valor en la cabeza de la cola sacándolode ella.
+  
   
   
