@@ -13,13 +13,13 @@ separados por un espacio, hasta que los valores leídos sean ambos 0.
 En ese caso deberá terminar la ejecución, destruyendo primero la pila y la cola.
 Dependiendo del valor de o el programa hará algo distinto:
 
-  •Si o==1, insertará ien la pila.
+  •Si o==1, insertará i en la pila.
   
   •Si o==2, mostrará el último valor insertado en la pila sin sacarlo de ella.
   
   •Si o==3, mostrará el último valor insertado en la pila sacándolo de ella.
   
-  •Si o==4, insertará ien la cola.
+  •Si o==4, insertará i en la cola.
   
   •Si o==5, mostrará el valor en la cabeza de la cola sin sacarlo de ella.
   
